@@ -23,7 +23,7 @@ copy source destination
 uname -> command
 -a -> one of the option
 
-pwd -> print working directory
+pwd -> present working directory
 $ -> normal user
 # -> root user
 
